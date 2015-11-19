@@ -1,0 +1,82 @@
+body {
+
+}
+
+header {
+  height: 200px;
+}
+
+.top {
+  background-color: #CACBCC;
+  height: 50px;
+  width: 100%;
+}
+
+.contact {
+  float: left;
+  
+  margin-left: 75px;
+}
+
+.phone {
+  border-left-style: solid;
+  border-left-color: grey;
+  border-left-width: 1px;
+  height: 50px;
+
+}
+
+
+.contactmargin {
+  padding: 15px;
+  border-left-style: solid;
+  border-left-width: 1px;
+  border-left-color: grey;
+  border-right-style: solid;
+  border-right-color: grey;
+  border-right-width: 1px;
+}
+
+.share {
+  display: inline;
+  float: right;
+  margin-right: 0px;
+}
+
+.sharemargin {
+  padding: 15px;
+  border-left-style: solid;
+  border-left-width: 1px;
+  border-left-color: grey;
+  margin-right: 50px;
+
+}
+
+.bottom {
+  margin-top: 15px;
+  height: 150px;
+  width: 1100px;
+
+}
+
+.logo {
+  float: left;
+  margin-left: 135px;
+  color: orange;
+}
+
+.toolbar {
+  float: right;
+  margin-right: -240px;
+}
+
+.home {
+  color: orange;
+  margin-right: 15px;
+
+}
+
+.bottommargin {
+ padding: 16px;
+
+}
